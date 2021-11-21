@@ -8,3 +8,4 @@ https://github.com/kvntzn/mi_card_flutter
 * Magic 8 ball
 https://github.com/kvntzn/magic_8_ball
 * https://github.com/kvntzn/covid19
+* BMI Calculator - https://github.com/kvntzn/bmi_calculator
